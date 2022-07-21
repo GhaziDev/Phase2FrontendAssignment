@@ -1,0 +1,26 @@
+.main{
+  display:flex;
+  justify-content: center;
+  flex-flow:column wrap;
+  color:white;
+}
+
+
+
+.card-div{
+  display: flex;
+  background-color: grey;
+  height: max-content;
+  border-radius: 8px;
+  line-height: 50px;
+}
+
+
+
+.error-div{
+  display:flex;
+  height:100%;
+  width: 100%;
+  justify-content: center;
+}
+
